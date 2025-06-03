@@ -1,6 +1,6 @@
 # HW-IntelN100-Mini-AI-PC
 
-<img width="490" alt="final PC" src="https://github.com/user-attachments/assets/40098662-07b7-4680-a526-51252ccad52d" />
+<img width="486" alt="my pc" src="https://github.com/user-attachments/assets/43808935-255c-4f9e-9415-c40cd7b88f74" />
 
 ## What you get:
 
