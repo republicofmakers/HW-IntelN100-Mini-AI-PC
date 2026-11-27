@@ -53,8 +53,3 @@ Follow the [**N100PC.pdf**](./N100PC.pdf) manual for:
 2. Plug it into the PC and power on.  
 3. Install OS on your NVMe SSD or eMMC.  
 
-### ⚙️ Post-Installation
-```bash
-sudo apt update && sudo apt upgrade
-sudo apt install python3-pip git
-pip3 install torch torchvision onnxruntime opencv-python
